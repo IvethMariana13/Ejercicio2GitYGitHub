@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4ppHkGpYysxm/xVYOrLv69DESDZ8IwUyCOnYZH9AKZokWgbFeNYjiMEq0taALxkXmXUouFmmdaz95ywU+txSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mariana\\Ejercicio2GitYGitHub\\GitAndGitHubExercise2\\GitAndGitHubExercise2\\GitAndGitHubExercise2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
